@@ -1,3 +1,2 @@
-# hello-world
-Hi, my name is Jasmine and I am a Junior at UH Manoa. 
-My majors are MIS and HR and I went to Mililani High School. 
+# Repo for ITM 352 FAll 2019 Labs and Assignments
+Put all ITM 352 stuff here
